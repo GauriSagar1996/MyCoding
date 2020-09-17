@@ -10,4 +10,6 @@ Jenkins
 Git
 API testing
 DataBase Testing
+RestAssuerd
+Postman
 
