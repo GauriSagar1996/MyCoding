@@ -1,3 +1,13 @@
 
 
 Welcome to the AptiSoft Solution
+
+
+Selenium
+TestNG
+Maven
+Jenkins
+Git
+API testing
+DataBase Testing
+
